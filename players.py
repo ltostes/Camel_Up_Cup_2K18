@@ -20,8 +20,6 @@ import random
 import math
 from playerinterface import PlayerInterface
 
-
-
 class Player0(PlayerInterface):
     def move(player,g):
         #This dumb player always moves a camel
